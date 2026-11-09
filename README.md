@@ -24,8 +24,8 @@ It ingests live authenticated hiring feeds, maintains a **rolling 7-day retentio
 ├─────────────────────┬─────────────────────┬─────────────────────┬──────────────────────┤
 │  PHASE 01: EXTRACT  │ PHASE 02: UNDERSTAND│   PHASE 03: PLAN    │   PHASE 04: EXECUTE  │
 ├─────────────────────┼─────────────────────┼─────────────────────┼──────────────────────┤
-│ • Auth session login│ • DuckDB property   │ • Grey Machines     │ • Google AI Studio   │
-│ • Offset pagination │   graph projection  │   stratified layout │   Gemini synthesis   │
+│ • Auth session login│ • DuckDB property   │ • Stratified layout │ • Google AI Studio   │
+│ • Offset pagination │   graph projection  │                     │   Gemini synthesis   │
 │ • Rolling 7-day     │ • Regex skill taxo- │ • Supply vs Demand  │ • 15 derived metrics │
 │   intake retention  │   nomy extraction   │   2×2 Matrix        │ • Candidate Arbitrage│
 │ • DuckDB upserts    │ • Co-occurrences    │ • Live UK Serp news │   & Moat Calculator  │
