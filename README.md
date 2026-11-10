@@ -50,7 +50,7 @@ The dashboard is delivered as a zero-dependency, self-contained single-page appl
 
 ---
 
-### 2. Grey Machines-Style Stratified Decision Blueprint (Frozen Knowledge Graph)
+### 2. Stratified Decision Blueprint (Frozen Knowledge Graph)
 A frozen, 3-stage causal layout rendered on a subtle blueprint dot-grid canvas. Clicking any node card triggers causal tracing—highlighting upstream sponsors and downstream tech moats while dimming unrelated entities to 15% opacity.
 
 ```
@@ -72,7 +72,7 @@ A frozen, 3-stage causal layout rendered on a subtle blueprint dot-grid canvas. 
 │ │ Wise / Monzo / Arm       │ │   │ ★ Highest Vacancy  │   │ │ Databricks & dbt       │ │
 │ └──────────────────────────┘ │   └────────────────────┘   │ └────────────────────────┘ │
 └────────────────────────────────────────────────────────────────────────────────────────┘
-  ▼ GREY MACHINES DEEP-DIVE DECISION DRAWER
+  ▼ DEEP-DIVE DECISION DRAWER
   ┌──────────────────────────────────────────────────────────────────────────────────────┐
   │ [EMPLOYER] MISTRAL AI — 9 Openings · Tier-1 Home Office Licensed                     │
   │ • Strategic Class : Frontier Foundation AI Lab with extreme engineering density.    │
